@@ -1,0 +1,106 @@
+*{
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.n1{
+    background-color: #006491;
+    border: 0px;
+    height: 66px;
+    width: 2000px;
+}
+
+.i1{
+    position: relative;
+    top: 0%;
+    left: 100px;
+    width: 200px;
+    height: 60px;
+}
+
+.menu{
+    text-align: center;
+
+}
+
+.i{
+    position: relative;
+    top: 0%;
+    left: 16.5in;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.t1{
+    color: #e41937;
+    text-align: center;
+    font-size: 1.75rem;
+    font-style: Fbold;
+    font-family: "Roboto Condensed",sans-serif;
+}
+
+.p{
+    position: relative;
+    margin-left: 5in;
+    margin-bottom: 20px;
+}
+.piepag{
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+
+.en{
+    color:white;
+}
+
+@keyframes slide{
+	100%{
+		
+		background-position-x: -500px; 
+	}
+}
+
+.nav{
+	width: 130px;
+	height: auto;
+	position: relative;
+	bottom: 5vh;
+}
+
+.form-group{
+    width: 15cm;
+    position: relative;
+    left: 5in;
+}
+
+.custom{
+    position: relative;
+    left: 5in;
+}
+
+.f1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #006491;
+    color:white;
+    position: relative;
+    right: 0%;
+    font-size: xx-large;
+}
+
+.r1{
+    position: relative;
+    border-bottom: 100px;
+    left: 800px;
+    align-items: center;
+}
+
+.ty{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #006491;
+    color:white;
+    font-size: xx-large;
+}
